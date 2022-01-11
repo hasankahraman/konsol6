@@ -1,0 +1,15 @@
+E:\patika\practises\konsol6\bin\Debug\net6.0\konsol6.exe
+E:\patika\practises\konsol6\bin\Debug\net6.0\konsol6.deps.json
+E:\patika\practises\konsol6\bin\Debug\net6.0\konsol6.runtimeconfig.json
+E:\patika\practises\konsol6\bin\Debug\net6.0\konsol6.dll
+E:\patika\practises\konsol6\bin\Debug\net6.0\ref\konsol6.dll
+E:\patika\practises\konsol6\bin\Debug\net6.0\konsol6.pdb
+E:\patika\practises\konsol6\obj\Debug\net6.0\konsol6.csproj.AssemblyReference.cache
+E:\patika\practises\konsol6\obj\Debug\net6.0\konsol6.GeneratedMSBuildEditorConfig.editorconfig
+E:\patika\practises\konsol6\obj\Debug\net6.0\konsol6.AssemblyInfoInputs.cache
+E:\patika\practises\konsol6\obj\Debug\net6.0\konsol6.AssemblyInfo.cs
+E:\patika\practises\konsol6\obj\Debug\net6.0\konsol6.csproj.CoreCompileInputs.cache
+E:\patika\practises\konsol6\obj\Debug\net6.0\konsol6.dll
+E:\patika\practises\konsol6\obj\Debug\net6.0\ref\konsol6.dll
+E:\patika\practises\konsol6\obj\Debug\net6.0\konsol6.pdb
+E:\patika\practises\konsol6\obj\Debug\net6.0\konsol6.genruntimeconfig.cache
